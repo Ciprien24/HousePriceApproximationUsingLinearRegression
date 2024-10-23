@@ -12,7 +12,7 @@ This project implements a simple linear regression model using gradient descent 
 ## Getting Started
 
 Before you run the code make sure that you have numpy and matplotlib installed
-You can do this by running the following commands in the terminal:
+.You can do this by running the following commands in the terminal:
 ```
 pip install numpy
 pip install matplotlib
